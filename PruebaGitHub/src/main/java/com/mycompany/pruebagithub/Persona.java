@@ -11,6 +11,7 @@ package com.mycompany.pruebagithub;
 public class Persona {
     
     private int edad;
+    private int media;
     
     public Persona(int edad){
         this.edad=edad;
